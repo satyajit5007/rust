@@ -17,3 +17,4 @@ fn main(){
     println!("{}",user.last_name);
     println!("{}",user.age);
 }
+

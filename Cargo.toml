@@ -17,3 +17,8 @@ path = "src/main2.rs"
 name = "rust3"
 path = "src/structs.rs"
 
+[[bin]]
+name = "rust4"
+path = "src/enumtest1.rs"
+
+
