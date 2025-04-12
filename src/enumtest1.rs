@@ -19,22 +19,30 @@
 // }
 
 
-enum Direction{
-    North,
-    South,
-    East,
-    West
-}
-fn move_player(direction: Direction){
-    match direction {
-        Direction::North => println!("Going North"),
-        Direction::South => println!("Going South"),
-        Direction::East => println!("Going East"),
-        Direction::West => println!("Going West"),
-    }
-}
+// enum Direction{
+//     North,
+//     South,
+//     East,
+//     West
+// }
+// fn move_player(direction: Direction){
+//     match direction {
+//         Direction::North => println!("Going North"),
+//         Direction::South => println!("Going South"),
+//         Direction::East => println!("Going East"),
+//         Direction::West => println!("Going West"),
+//     }
+// }
 
-fn main(){
-    let dir = Direction::North;  
-    move_player(dir);   
-}
+// fn main(){
+//     let dir = Direction::North;  
+//     move_player(dir);   
+// }
+
+
+
+
+
+
+
+
